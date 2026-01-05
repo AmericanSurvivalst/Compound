@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0a0a0b"/>
+  <!-- Logo -->
+  <g transform="translate(540, 200)">
+    <path d="M60 12L99.96 36V84L60 108L20.04 84V36L60 12Z" stroke="#22c55e" stroke-width="4" fill="none"/>
+    <circle cx="60" cy="36" r="6" fill="#22c55e"/>
+    <circle cx="84" cy="60" r="6" fill="#22c55e"/>
+    <circle cx="60" cy="84" r="6" fill="#22c55e"/>
+    <circle cx="36" cy="60" r="6" fill="#22c55e"/>
+    <circle cx="60" cy="60" r="8" fill="#22c55e"/>
+  </g>
+  <!-- Text -->
+  <text x="600" y="380" text-anchor="middle" fill="white" font-family="system-ui, sans-serif" font-size="72" font-weight="bold">Compound</text>
+  <text x="600" y="440" text-anchor="middle" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="28">Know what you're taking</text>
+  <!-- Stats -->
+  <text x="300" y="540" text-anchor="middle" fill="#22c55e" font-family="system-ui, sans-serif" font-size="24">50+ Compounds</text>
+  <text x="600" y="540" text-anchor="middle" fill="#22c55e" font-family="system-ui, sans-serif" font-size="24">Real Studies</text>
+  <text x="900" y="540" text-anchor="middle" fill="#22c55e" font-family="system-ui, sans-serif" font-size="24">No BS</text>
+</svg>
